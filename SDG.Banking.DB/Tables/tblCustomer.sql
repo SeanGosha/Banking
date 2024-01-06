@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[tblCustomer]
+(
+	[Id] INT NOT NULL PRIMARY KEY,
+	[SSN] VARCHAR(11) NOT NULL,
+	[FirstName] VARCHAR(50) NOT NULL,
+	[LastName] VARCHAR(50) NOT NULL,
+	[BirthDate] DATETIME NOT NULL
+)

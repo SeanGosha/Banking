@@ -1,0 +1,34 @@
+C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.BL\bin\Debug\net7.0\SDG.Banking.BL.deps.json
+C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.BL\bin\Debug\net7.0\SDG.Banking.BL.dll
+C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.BL\bin\Debug\net7.0\SDG.Banking.BL.pdb
+C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.BL\bin\Debug\net7.0\SDG.Banking.BL.Models.dll
+C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.BL\bin\Debug\net7.0\SDG.Banking.BL.Models.pdb
+C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.BL\obj\Debug\net7.0\SDG.Banking.BL.csproj.AssemblyReference.cache
+C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.BL\obj\Debug\net7.0\SDG.Banking.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.BL\obj\Debug\net7.0\SDG.Banking.BL.AssemblyInfoInputs.cache
+C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.BL\obj\Debug\net7.0\SDG.Banking.BL.AssemblyInfo.cs
+C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.BL\obj\Debug\net7.0\SDG.Banking.BL.csproj.CoreCompileInputs.cache
+C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.BL\obj\Debug\net7.0\SDG.Banking.BL.csproj.CopyComplete
+C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.BL\obj\Debug\net7.0\SDG.Banking.BL.dll
+C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.BL\obj\Debug\net7.0\refint\SDG.Banking.BL.dll
+C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.BL\obj\Debug\net7.0\SDG.Banking.BL.pdb
+C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.BL\obj\Debug\net7.0\ref\SDG.Banking.BL.dll
+C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.BL\bin\Debug\net7.0\SDG.Banking.PL.dll
+C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.BL\bin\Debug\net7.0\SDG.Banking.PL.pdb
+C:\Dev\School Code Saves\SDG.Banking\SDG.Banking.BL\bin\Debug\net7.0\SDG.Banking.BL.deps.json
+C:\Dev\School Code Saves\SDG.Banking\SDG.Banking.BL\bin\Debug\net7.0\SDG.Banking.BL.dll
+C:\Dev\School Code Saves\SDG.Banking\SDG.Banking.BL\bin\Debug\net7.0\SDG.Banking.BL.pdb
+C:\Dev\School Code Saves\SDG.Banking\SDG.Banking.BL\bin\Debug\net7.0\SDG.Banking.BL.Models.dll
+C:\Dev\School Code Saves\SDG.Banking\SDG.Banking.BL\bin\Debug\net7.0\SDG.Banking.PL.dll
+C:\Dev\School Code Saves\SDG.Banking\SDG.Banking.BL\bin\Debug\net7.0\SDG.Banking.BL.Models.pdb
+C:\Dev\School Code Saves\SDG.Banking\SDG.Banking.BL\bin\Debug\net7.0\SDG.Banking.PL.pdb
+C:\Dev\School Code Saves\SDG.Banking\SDG.Banking.BL\obj\Debug\net7.0\SDG.Banking.BL.csproj.AssemblyReference.cache
+C:\Dev\School Code Saves\SDG.Banking\SDG.Banking.BL\obj\Debug\net7.0\SDG.Banking.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\School Code Saves\SDG.Banking\SDG.Banking.BL\obj\Debug\net7.0\SDG.Banking.BL.AssemblyInfoInputs.cache
+C:\Dev\School Code Saves\SDG.Banking\SDG.Banking.BL\obj\Debug\net7.0\SDG.Banking.BL.AssemblyInfo.cs
+C:\Dev\School Code Saves\SDG.Banking\SDG.Banking.BL\obj\Debug\net7.0\SDG.Banking.BL.csproj.CoreCompileInputs.cache
+C:\Dev\School Code Saves\SDG.Banking\SDG.Banking.BL\obj\Debug\net7.0\SDG.Banking.BL.csproj.CopyComplete
+C:\Dev\School Code Saves\SDG.Banking\SDG.Banking.BL\obj\Debug\net7.0\SDG.Banking.BL.dll
+C:\Dev\School Code Saves\SDG.Banking\SDG.Banking.BL\obj\Debug\net7.0\refint\SDG.Banking.BL.dll
+C:\Dev\School Code Saves\SDG.Banking\SDG.Banking.BL\obj\Debug\net7.0\SDG.Banking.BL.pdb
+C:\Dev\School Code Saves\SDG.Banking\SDG.Banking.BL\obj\Debug\net7.0\ref\SDG.Banking.BL.dll

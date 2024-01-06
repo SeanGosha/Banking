@@ -1,0 +1,6 @@
+C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.DB\bin\Debug\SDG.Banking.DB.dacpac
+C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.DB\bin\Debug\SDG.Banking.DB.dll
+C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.DB\bin\Debug\SDG.Banking.DB.pdb
+C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.DB\obj\Debug\SDG.Banking.DB.sqlproj.AssemblyReference.cache
+C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.DB\obj\Debug\SDG.Banking.DB.dll
+C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.DB\obj\Debug\SDG.Banking.DB.pdb
