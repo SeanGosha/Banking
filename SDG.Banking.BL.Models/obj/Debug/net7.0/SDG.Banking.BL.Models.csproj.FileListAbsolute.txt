@@ -22,3 +22,15 @@ C:\Dev\School Code Saves\SDG.Banking\SDG.Banking.BL.Models\obj\Debug\net7.0\SDG.
 C:\Dev\School Code Saves\SDG.Banking\SDG.Banking.BL.Models\obj\Debug\net7.0\refint\SDG.Banking.BL.Models.dll
 C:\Dev\School Code Saves\SDG.Banking\SDG.Banking.BL.Models\obj\Debug\net7.0\SDG.Banking.BL.Models.pdb
 C:\Dev\School Code Saves\SDG.Banking\SDG.Banking.BL.Models\obj\Debug\net7.0\ref\SDG.Banking.BL.Models.dll
+C:\Dev\School Code Saves\Banking\SDG.Banking.BL.Models\bin\Debug\net7.0\SDG.Banking.BL.Models.deps.json
+C:\Dev\School Code Saves\Banking\SDG.Banking.BL.Models\bin\Debug\net7.0\SDG.Banking.BL.Models.dll
+C:\Dev\School Code Saves\Banking\SDG.Banking.BL.Models\bin\Debug\net7.0\SDG.Banking.BL.Models.pdb
+C:\Dev\School Code Saves\Banking\SDG.Banking.BL.Models\obj\Debug\net7.0\SDG.Banking.BL.Models.csproj.AssemblyReference.cache
+C:\Dev\School Code Saves\Banking\SDG.Banking.BL.Models\obj\Debug\net7.0\SDG.Banking.BL.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\School Code Saves\Banking\SDG.Banking.BL.Models\obj\Debug\net7.0\SDG.Banking.BL.Models.AssemblyInfoInputs.cache
+C:\Dev\School Code Saves\Banking\SDG.Banking.BL.Models\obj\Debug\net7.0\SDG.Banking.BL.Models.AssemblyInfo.cs
+C:\Dev\School Code Saves\Banking\SDG.Banking.BL.Models\obj\Debug\net7.0\SDG.Banking.BL.Models.csproj.CoreCompileInputs.cache
+C:\Dev\School Code Saves\Banking\SDG.Banking.BL.Models\obj\Debug\net7.0\SDG.Banking.BL.Models.dll
+C:\Dev\School Code Saves\Banking\SDG.Banking.BL.Models\obj\Debug\net7.0\refint\SDG.Banking.BL.Models.dll
+C:\Dev\School Code Saves\Banking\SDG.Banking.BL.Models\obj\Debug\net7.0\SDG.Banking.BL.Models.pdb
+C:\Dev\School Code Saves\Banking\SDG.Banking.BL.Models\obj\Debug\net7.0\ref\SDG.Banking.BL.Models.dll

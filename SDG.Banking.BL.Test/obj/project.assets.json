@@ -7265,11 +7265,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.BL.Test\\SDG.Banking.BL.Test.csproj",
+      "projectUniqueName": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.BL.Test\\SDG.Banking.BL.Test.csproj",
       "projectName": "SDG.Banking.BL.Test",
-      "projectPath": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.BL.Test\\SDG.Banking.BL.Test.csproj",
+      "projectPath": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.BL.Test\\SDG.Banking.BL.Test.csproj",
       "packagesPath": "C:\\Users\\Yeyian PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.BL.Test\\obj\\",
+      "outputPath": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.BL.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7291,8 +7291,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.BL\\SDG.Banking.BL.csproj": {
-              "projectPath": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.BL\\SDG.Banking.BL.csproj"
+            "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.BL\\SDG.Banking.BL.csproj": {
+              "projectPath": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.BL\\SDG.Banking.BL.csproj"
             }
           }
         }

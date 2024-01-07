@@ -4,3 +4,13 @@ C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.DB\bin\Debu
 C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.DB\obj\Debug\SDG.Banking.DB.sqlproj.AssemblyReference.cache
 C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.DB\obj\Debug\SDG.Banking.DB.dll
 C:\Users\Yeyian PC\OneDrive\Documents\Dev\C#\SDG.Banking\SDG.Banking.DB\obj\Debug\SDG.Banking.DB.pdb
+C:\Dev\School Code Saves\Banking\SDG.Banking.DB\bin\Debug\SDG.Banking.DB.dacpac
+C:\Dev\School Code Saves\Banking\SDG.Banking.DB\bin\Debug\SDG.Banking.DB.dll
+C:\Dev\School Code Saves\Banking\SDG.Banking.DB\bin\Debug\SDG.Banking.DB.pdb
+C:\Dev\School Code Saves\Banking\SDG.Banking.DB\obj\Debug\SDG.Banking.DB.sqlproj.AssemblyReference.cache
+C:\Dev\School Code Saves\Banking\SDG.Banking.DB\obj\Debug\Model.xml
+C:\Dev\School Code Saves\Banking\SDG.Banking.DB\obj\Debug\refactor.xml
+C:\Dev\School Code Saves\Banking\SDG.Banking.DB\obj\Debug\postdeploy.sql
+C:\Dev\School Code Saves\Banking\SDG.Banking.DB\obj\Debug\predeploy.sql
+C:\Dev\School Code Saves\Banking\SDG.Banking.DB\obj\Debug\SDG.Banking.DB.dll
+C:\Dev\School Code Saves\Banking\SDG.Banking.DB\obj\Debug\SDG.Banking.DB.pdb

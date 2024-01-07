@@ -22,3 +22,15 @@ C:\Dev\School Code Saves\SDG.Banking\SDG.Banking.PL\obj\Debug\net7.0\SDG.Banking
 C:\Dev\School Code Saves\SDG.Banking\SDG.Banking.PL\obj\Debug\net7.0\refint\SDG.Banking.PL.dll
 C:\Dev\School Code Saves\SDG.Banking\SDG.Banking.PL\obj\Debug\net7.0\SDG.Banking.PL.pdb
 C:\Dev\School Code Saves\SDG.Banking\SDG.Banking.PL\obj\Debug\net7.0\ref\SDG.Banking.PL.dll
+C:\Dev\School Code Saves\Banking\SDG.Banking.PL\bin\Debug\net7.0\SDG.Banking.PL.deps.json
+C:\Dev\School Code Saves\Banking\SDG.Banking.PL\bin\Debug\net7.0\SDG.Banking.PL.dll
+C:\Dev\School Code Saves\Banking\SDG.Banking.PL\bin\Debug\net7.0\SDG.Banking.PL.pdb
+C:\Dev\School Code Saves\Banking\SDG.Banking.PL\obj\Debug\net7.0\SDG.Banking.PL.csproj.AssemblyReference.cache
+C:\Dev\School Code Saves\Banking\SDG.Banking.PL\obj\Debug\net7.0\SDG.Banking.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\School Code Saves\Banking\SDG.Banking.PL\obj\Debug\net7.0\SDG.Banking.PL.AssemblyInfoInputs.cache
+C:\Dev\School Code Saves\Banking\SDG.Banking.PL\obj\Debug\net7.0\SDG.Banking.PL.AssemblyInfo.cs
+C:\Dev\School Code Saves\Banking\SDG.Banking.PL\obj\Debug\net7.0\SDG.Banking.PL.csproj.CoreCompileInputs.cache
+C:\Dev\School Code Saves\Banking\SDG.Banking.PL\obj\Debug\net7.0\SDG.Banking.PL.dll
+C:\Dev\School Code Saves\Banking\SDG.Banking.PL\obj\Debug\net7.0\refint\SDG.Banking.PL.dll
+C:\Dev\School Code Saves\Banking\SDG.Banking.PL\obj\Debug\net7.0\SDG.Banking.PL.pdb
+C:\Dev\School Code Saves\Banking\SDG.Banking.PL\obj\Debug\net7.0\ref\SDG.Banking.PL.dll

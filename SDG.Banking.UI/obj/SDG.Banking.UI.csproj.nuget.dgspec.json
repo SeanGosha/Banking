@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.UI\\SDG.Banking.UI.csproj": {}
+    "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.UI\\SDG.Banking.UI.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.BL.Models\\SDG.Banking.BL.Models.csproj": {
+    "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.BL.Models\\SDG.Banking.BL.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.BL.Models\\SDG.Banking.BL.Models.csproj",
+        "projectUniqueName": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.BL.Models\\SDG.Banking.BL.Models.csproj",
         "projectName": "SDG.Banking.BL.Models",
-        "projectPath": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.BL.Models\\SDG.Banking.BL.Models.csproj",
+        "projectPath": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.BL.Models\\SDG.Banking.BL.Models.csproj",
         "packagesPath": "C:\\Users\\Yeyian PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.BL.Models\\obj\\",
+        "outputPath": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.BL.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.BL\\SDG.Banking.BL.csproj": {
+    "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.BL\\SDG.Banking.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.BL\\SDG.Banking.BL.csproj",
+        "projectUniqueName": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.BL\\SDG.Banking.BL.csproj",
         "projectName": "SDG.Banking.BL",
-        "projectPath": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.BL\\SDG.Banking.BL.csproj",
+        "projectPath": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.BL\\SDG.Banking.BL.csproj",
         "packagesPath": "C:\\Users\\Yeyian PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.BL\\obj\\",
+        "outputPath": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,11 +93,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.BL.Models\\SDG.Banking.BL.Models.csproj": {
-                "projectPath": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.BL.Models\\SDG.Banking.BL.Models.csproj"
+              "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.BL.Models\\SDG.Banking.BL.Models.csproj": {
+                "projectPath": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.BL.Models\\SDG.Banking.BL.Models.csproj"
               },
-              "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.PL\\SDG.Banking.PL.csproj": {
-                "projectPath": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.PL\\SDG.Banking.PL.csproj"
+              "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.PL\\SDG.Banking.PL.csproj": {
+                "projectPath": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.PL\\SDG.Banking.PL.csproj"
               }
             }
           }
@@ -131,14 +131,14 @@
         }
       }
     },
-    "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.PL\\SDG.Banking.PL.csproj": {
+    "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.PL\\SDG.Banking.PL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.PL\\SDG.Banking.PL.csproj",
+        "projectUniqueName": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.PL\\SDG.Banking.PL.csproj",
         "projectName": "SDG.Banking.PL",
-        "projectPath": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.PL\\SDG.Banking.PL.csproj",
+        "projectPath": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.PL\\SDG.Banking.PL.csproj",
         "packagesPath": "C:\\Users\\Yeyian PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.PL\\obj\\",
+        "outputPath": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.PL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -197,14 +197,14 @@
         }
       }
     },
-    "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.UI\\SDG.Banking.UI.csproj": {
+    "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.UI\\SDG.Banking.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.UI\\SDG.Banking.UI.csproj",
+        "projectUniqueName": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.UI\\SDG.Banking.UI.csproj",
         "projectName": "SDG.Banking.UI",
-        "projectPath": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.UI\\SDG.Banking.UI.csproj",
+        "projectPath": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.UI\\SDG.Banking.UI.csproj",
         "packagesPath": "C:\\Users\\Yeyian PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.UI\\obj\\",
+        "outputPath": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -226,11 +226,11 @@
           "net7.0-windows7.0": {
             "targetAlias": "net7.0-windows",
             "projectReferences": {
-              "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.BL.Models\\SDG.Banking.BL.Models.csproj": {
-                "projectPath": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.BL.Models\\SDG.Banking.BL.Models.csproj"
+              "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.BL.Models\\SDG.Banking.BL.Models.csproj": {
+                "projectPath": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.BL.Models\\SDG.Banking.BL.Models.csproj"
               },
-              "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.BL\\SDG.Banking.BL.csproj": {
-                "projectPath": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.BL\\SDG.Banking.BL.csproj"
+              "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.BL\\SDG.Banking.BL.csproj": {
+                "projectPath": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.BL\\SDG.Banking.BL.csproj"
               }
             }
           }

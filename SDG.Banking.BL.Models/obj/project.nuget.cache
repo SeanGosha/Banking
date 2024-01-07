@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "14X+1A2kSjekE951RzS4VDJ7BAUGLsGfdPTalw9s+0SU9WeoZyX1wNFo2+BNKxTmRNKYBUlYO0lPW2R/Qm4a9A==",
+  "dgSpecHash": "rR6E5xjRnrrm6UIU0tFGX5nC33L5aD4Wc7zEnigSFnyD3hZ5cHFoqeU/Vb6U6CLxHlifP+ZAOWU7yPXtPcX+NA==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.BL.Models\\SDG.Banking.BL.Models.csproj",
+  "projectFilePath": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.BL.Models\\SDG.Banking.BL.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

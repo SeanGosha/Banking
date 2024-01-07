@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4QpjJP5XZgP7x7JvqRbRAvjQpVOD/fKL+ES0oPfnMMNRKQRXtj5HTeoApOAA2B9Q7w9hY7dHQk1og8bSOAPehA==",
+  "dgSpecHash": "0Ay3LQloX3W4LYeXMLmG5DBAzYYnnWLaI0+g2ud9kMyGO9Z4kFZ7P/sgH5vmfpfnLYi3RPgKFU5r2cKwGCPt+g==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.BL.Test\\SDG.Banking.BL.Test.csproj",
+  "projectFilePath": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.BL.Test\\SDG.Banking.BL.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yeyian PC\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Yeyian PC\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N9aBrXdy1K+6L7sRGsKHEXOHHrgie175ckvc4NA4KA1Cq6TcuRUf39VXgi299yEX2jN9Cd3udHQqlTuz7/mLgg==",
+  "dgSpecHash": "3/KdRUP3/rHZOoefbggEErw3tyLiMKm6Jy1LCtE7/Z1scRsjbn2qyxvbu1f98YUCZSuVAx8RYNXdHZBg/pYesg==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.PL\\SDG.Banking.PL.csproj",
+  "projectFilePath": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.PL\\SDG.Banking.PL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yeyian PC\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Yeyian PC\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

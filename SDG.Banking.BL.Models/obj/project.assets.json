@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.BL.Models\\SDG.Banking.BL.Models.csproj",
+      "projectUniqueName": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.BL.Models\\SDG.Banking.BL.Models.csproj",
       "projectName": "SDG.Banking.BL.Models",
-      "projectPath": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.BL.Models\\SDG.Banking.BL.Models.csproj",
+      "projectPath": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.BL.Models\\SDG.Banking.BL.Models.csproj",
       "packagesPath": "C:\\Users\\Yeyian PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\School Code Saves\\SDG.Banking\\SDG.Banking.BL.Models\\obj\\",
+      "outputPath": "C:\\Dev\\School Code Saves\\Banking\\SDG.Banking.BL.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
